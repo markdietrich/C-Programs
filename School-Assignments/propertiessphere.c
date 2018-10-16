@@ -1,6 +1,5 @@
 //
-//  main.c
-//  Assignment3
+//  propertiessphere.c
 //
 //  Created by Mark Dietrich on 9/17/18.
 //  Copyright © 2018 Mark Dietrich. All rights reserved.
