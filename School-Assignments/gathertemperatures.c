@@ -1,6 +1,5 @@
 //
-//  main.c
-//  Assignment 5
+//  gathertemperatures.c.c
 //
 //  Created by Mark Dietrich on 10/4/18.
 //  Copyright © 2018 Mark Dietrich. All rights reserved.
