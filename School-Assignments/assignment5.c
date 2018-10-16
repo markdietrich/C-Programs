@@ -6,7 +6,8 @@
 //  Copyright © 2018 Mark Dietrich. All rights reserved.
 //
 
-/* This program reads in 28,29,30, or 31 integer values as temperatures from the user.
+/* 
+ * This program reads in 28,29,30, or 31 integer values as temperatures from the user.
  * Upon receiving these values, the number of hot days (over 32 degrees farenheit) are calculated
  * followed by printed the temperatures into a table.
  */
